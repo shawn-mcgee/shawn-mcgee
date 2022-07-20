@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+***A smiling Kaiju in a neon tsunami, digital art*** *- generated with DALLE-2 * ✌️
+
+
 <!--
 **shawn-mcgee/shawn-mcgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
