@@ -4,7 +4,7 @@ My name is **Shawn McGee (He/Him)** and I am a full-time Dad, a part-time DM, an
 
 > I am a technically-minded, family-oriented self-starter with an innate ability to master new skills quickly and I especially enjoy designing solutions to novel challenges.
 
-When I am not putting out 🔥 at home or at work, I am working on:
+When I am not putting out 🔥fires🔥 at home or at work, I am working on:
 
 - [Jasper](https://github.com/shawn-mcgee/jasper): A Java game engine for Desktop
 - [AlchemyVTT](https://github.com/alchemyvtt/alchemyvtt): A Virtual Table Top for *the modern era*
