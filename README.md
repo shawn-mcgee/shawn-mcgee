@@ -1,10 +1,8 @@
 ### 👉😎👉
 
-My name is **Shawn McGee (He/Him)** and I am a full-time Dad, a part-time DM, and a some-time programmer with big dreams.
+My name is **Shawn McGee (He/Him)**
+I am a Full-Time Dad and All-Time Programmer
 
-> I am a technically-minded, family-oriented self-starter with an innate ability to master new skills quickly and I especially enjoy designing solutions to novel challenges.
+I like to work on projects that challenge the status quo. In a world of AI and surveillance capitalism, I care about developing free and open source software that respects people's time and keeps them in control of their data.
 
-When I am not putting out 🔥fires🔥 at home or at work, I am working on:
-
-- [Alchemy](https://github.com/shawn-mcgee/Alchemy): A Virtual Table Top for *the modern era*
-- [Paperize.io](https://github.com/paperize/paperize): Helping designers make better games, faster!
+<!-- When I am not putting out 🔥fires🔥 at home or at work, I am working on: -->
